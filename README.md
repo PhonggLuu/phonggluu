@@ -7,7 +7,7 @@
 
 ### 👉About Me
 - 💳 My full name is **Luu Gia Phong**
-- 🏫 I’m currently studying at **FPT University - Ho Chi Minh City Campus**. My major is **Software Engineering**, focusing on Back-end Development.
+- 🏫 I’m currently studying at **FPT University - Ho Chi Minh City Campus**. My major is **Software Engineering**, focusing on Fullstack Development.
 - 🌏 I'm residing in **Thu Duc City, Ho Chi Minh City, Vietnam**
 
 ### 📫 Connect with me:
@@ -19,7 +19,7 @@
 </p>
 
 ### 🔭 Languages and Tools
-<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=html,css,js,java,cs,dotnet,github,gradle,postgres,unity,postman,docker,stackoverflow"> </a> </p>
+<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,java,gradle,postgres,unity,postman,stackoverflow"> </a> </p>
 
 ### My Stats:
 <p align="center">
@@ -38,23 +38,23 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=Fall2023SWP391_NET1703_Group02&theme=highcontrast" />
 </a>    
-<a href="https://github.com/PhonggLuu/RunningRace">
+<a href="https://github.com/PhonggLuu/ScorePickle_FE">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=RunningRace&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=ScorePickle_FE&theme=cobalt" />
 </a>
 
-<a href="https://github.com/PhonggLuu/FlowerReview">
+<a href="https://github.com/PhonggLuu/MobileApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=FlowerReview&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=MobileApp&theme=onedark" />
 </a>    
 <a href="https://github.com/PhonggLuu/BadmintonCourtBooking">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=BadmintonCourtBooking&theme=dark" />
 </a>
 
-<a href="https://github.com/PhonggLuu/Microservices">
+<a href="https://github.com/PhonggLuu/FarmingGame">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=Microservices&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=FarmingGame&theme=radical" />
 </a>
 
 <div align="center">
